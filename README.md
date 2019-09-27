@@ -1,2 +1,0 @@
-# nhat_ki
-nhatki
